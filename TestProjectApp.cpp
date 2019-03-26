@@ -26,6 +26,7 @@ void TestProjectApp::shutdown() {
 
 	delete m_font;
 	delete m_2dRenderer;
+	// a weird comment haha
 }
 
 void TestProjectApp::update(float deltaTime) {
